@@ -8,4 +8,6 @@ package com.example.demo;
  * @date 2020-03-1910:10
  */
 public class GG {
+    public GG() {
+    }
 }
