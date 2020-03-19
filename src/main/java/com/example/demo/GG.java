@@ -10,4 +10,9 @@ package com.example.demo;
 public class GG {
     public GG() {
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 }
